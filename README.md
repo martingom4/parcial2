@@ -8,13 +8,17 @@ Aplicar técnicas de adquisición de datos desde distintas fuentes (JSON, XML, E
 
 ## 📌 Tema Seleccionado
 
-**Transporte público**
+**Accidewntes en transporte público**
 
-### 🔍 Fuentes de datos:
-- **JSON**: TfL (Transport for London)
-- **Excel**: Datos abiertos locales
-- **XML**: Dataset climático o tráfico (a definir)
-- **Scraping**: Página web de rutas u horarios de transporte
+---
+
+## ✅ Estado del Proyecto
+
+- [x] Fuentes de datos seleccionadas
+- [ ] Extracción de datos
+- [ ] Transformación y limpieza
+- [ ] Modelo estrella en base de datos
+- [ ] Dashboard interactivo
 
 ---
 
@@ -99,20 +103,41 @@ El dashboard mostrará indicadores clave sobre transporte público:
 - Comparaciones por tipo de transporte
 - Tendencias temporales
 
----
+## 📂 Fuentes y Estructura de Datos
 
-## ✅ Estado del Proyecto
-
-- [x] Fuentes de datos seleccionadas
-- [ ] Extracción de datos
-- [ ] Transformación y limpieza
-- [ ] Modelo estrella en base de datos
-- [ ] Dashboard interactivo
+Este proyecto utiliza datos públicos relacionados con accidentes de tráfico en Londres. Las fuentes abarcan archivos XML/Excel descargables y una API JSON pública provista por TfL (Transport for London).
 
 ---
 
-## 📚 Créditos
+### 📄 1. Datos desde archivos XML/Excel
 
-Datos obtenidos de:
-- [TfL Open Data](https://tfl.gov.uk/info-for/open-data-users/)
-- Datos abiertos locales (Panamá, LATAM, etc.)
+#### 🔹 `2019-gla-data-extract-casualty.csv`
+
+Contiene información detallada sobre las personas involucradas en los accidentes.
+
+| Campo | Descripción |
+|-------|-------------|
+| `AREFNO` | ID del accidente |
+| `Borough` | Nombre del distrito |
+| `Easting`, `Northing` | Coordenadas cartesianas |
+| `Casualty Class` | Rol del afectado (conductor, pasajero, peatón) |
+| `Casualty Sex` | Sexo de la persona |
+| `Casualty Age`, `Casualty Age (Banded)` | Edad y grupo de edad |
+| `Casualty Severity` | Gravedad (Fatal, Grave, Leve) |
+| `Mode of Travel` | Medio de transporte |
+
+#### 🔹 `2019-gla-data-extract-vehicle.csv`
+
+Contiene información sobre los vehículos implicados en cada accidente.
+
+| Campo | Descripción |
+|-------|-------------|
+| `AREFNO` | ID del accidente |
+| `Vehicle Type` | Tipo de vehículo (carro, moto, etc.) |
+| `Vehicle Manoeuvres` | Maniobra al momento del accidente |
+| `Driver Age`, `Driver Sex`, `Driver Age (Banded)` | Edad y sexo del conductor |
+
+---
+
+### 🌐 2. Datos desde API JSON de TfL
+https://data.london.gov.uk/dataset/travel-patterns-and-trends-london
