@@ -23,6 +23,7 @@ Aplicar técnicas de adquisición de datos desde distintas fuentes (JSON, XML, E
 ---
 
 ## 🔧 Herramientas y Tecnologías Propuestas
+
 - Lenguaje: Python / SQL
 - Librerías: `pandas`, `requests`, `json`, `openpyxl`, `BeautifulSoup`
 - Base de datos: PostgreSQL / MySQL
@@ -57,6 +58,7 @@ Aplicar técnicas de adquisición de datos desde distintas fuentes (JSON, XML, E
 ## 🔁 Resumen del Flujo
 
 ### 1. Recolección de Datos
+
 - Obtener **4 datasets públicos**:
   - ✅ 1 XML (ej: clima, tráfico)
   - ✅ 1 JSON (ej: API de transporte)
@@ -65,6 +67,7 @@ Aplicar técnicas de adquisición de datos desde distintas fuentes (JSON, XML, E
 - Guardar en `data/raw/`
 
 ### 2. Transformación y Limpieza
+
 - Usar `pandas` o `PySpark` para:
   - Eliminar valores nulos
   - Normalizar formatos de fecha
@@ -72,6 +75,7 @@ Aplicar técnicas de adquisición de datos desde distintas fuentes (JSON, XML, E
 - Guardar el dataset limpio en `data/clean/`
 
 ### 3. Modelo Estrella
+
 - Diseñar con:
   - 1 tabla de hechos (ej: viajes)
   - 3+ dimensiones (tiempo, ruta, estación, transporte, etc.)
@@ -79,6 +83,7 @@ Aplicar técnicas de adquisición de datos desde distintas fuentes (JSON, XML, E
 - Crear la estructura en SQL o con ORM
 
 ### 4. Dashboard Interactivo
+
 - Crear visualizaciones con:
   - Power BI / Tableau / Dash / Streamlit
 - Mostrar:
@@ -91,6 +96,7 @@ Aplicar técnicas de adquisición de datos desde distintas fuentes (JSON, XML, E
 ## 🧠 Modelo Estrella
 
 Se diseñará un esquema con:
+
 - **Tabla de hechos**: viajes, registros de transporte
 - **Dimensiones**: fecha, ubicación, tipo de transporte, compañía, etc.
 
@@ -99,6 +105,7 @@ Se diseñará un esquema con:
 ## 📊 Dashboard Interactivo
 
 El dashboard mostrará indicadores clave sobre transporte público:
+
 - Volumen de viajes por zona y fecha
 - Comparaciones por tipo de transporte
 - Tendencias temporales
@@ -115,29 +122,36 @@ Este proyecto utiliza datos públicos relacionados con accidentes de tráfico en
 
 Contiene información detallada sobre las personas involucradas en los accidentes.
 
-| Campo | Descripción |
-|-------|-------------|
-| `AREFNO` | ID del accidente |
-| `Borough` | Nombre del distrito |
-| `Easting`, `Northing` | Coordenadas cartesianas |
-| `Casualty Class` | Rol del afectado (conductor, pasajero, peatón) |
-| `Casualty Sex` | Sexo de la persona |
-| `Casualty Age`, `Casualty Age (Banded)` | Edad y grupo de edad |
-| `Casualty Severity` | Gravedad (Fatal, Grave, Leve) |
-| `Mode of Travel` | Medio de transporte |
+| Campo                                   | Descripción                                    |
+| --------------------------------------- | ---------------------------------------------- |
+| `AREFNO`                                | ID del accidente                               |
+| `Borough`                               | Nombre del distrito                            |
+| `Easting`, `Northing`                   | Coordenadas cartesianas                        |
+| `Casualty Class`                        | Rol del afectado (conductor, pasajero, peatón) |
+| `Casualty Sex`                          | Sexo de la persona                             |
+| `Casualty Age`, `Casualty Age (Banded)` | Edad y grupo de edad                           |
+| `Casualty Severity`                     | Gravedad (Fatal, Grave, Leve)                  |
+| `Mode of Travel`                        | Medio de transporte                            |
 
 #### 🔹 `2019-gla-data-extract-vehicle.csv`
 
 Contiene información sobre los vehículos implicados en cada accidente.
 
-| Campo | Descripción |
-|-------|-------------|
-| `AREFNO` | ID del accidente |
-| `Vehicle Type` | Tipo de vehículo (carro, moto, etc.) |
-| `Vehicle Manoeuvres` | Maniobra al momento del accidente |
-| `Driver Age`, `Driver Sex`, `Driver Age (Banded)` | Edad y sexo del conductor |
+| Campo                                             | Descripción                          |
+| ------------------------------------------------- | ------------------------------------ |
+| `AREFNO`                                          | ID del accidente                     |
+| `Vehicle Type`                                    | Tipo de vehículo (carro, moto, etc.) |
+| `Vehicle Manoeuvres`                              | Maniobra al momento del accidente    |
+| `Driver Age`, `Driver Sex`, `Driver Age (Banded)` | Edad y sexo del conductor            |
 
 ---
 
 ### 🌐 2. Datos desde API JSON de TfL
+
 https://data.london.gov.uk/dataset/travel-patterns-and-trends-london
+
+https://roads.data.tfl.gov.uk/#!LCAPJourneyTime%2FWeekly%2F
+
+https://content.tfl.gov.uk/travel-in-london-2024-consolidated-estimates-of-total-travel-and-mode-shares-acc.pdf
+
+https://roads.data.tfl.gov.uk/#!trafficstatus%2F
