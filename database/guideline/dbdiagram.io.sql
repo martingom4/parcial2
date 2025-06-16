@@ -10,7 +10,7 @@ Table HechosEventosMadrid {
   alcohol boolean
   droga boolean
   fuente varchar
-  id_remolque varchar [ref: > DimRemolque.idVehiculo]
+  id_remolque varchar [ref: > DimRemolque. id_remolque]
   linea_bus int [ref: > DimRutaBus.linea_id]
 }
 
@@ -42,7 +42,7 @@ Table DimVehiculo {
 }
 
 Table DimRemolque {
-  idVehiculo varchar [pk]
+  id_remolque varchar [pk]
   deposito varchar
   motivo varchar
   turno int
@@ -59,6 +59,4 @@ Table DimRutaBus {
 
 Ref: HechosEventosMadrid.fecha > DimFecha.fecha
 Ref: HechosEventosMadrid.cod_distrito > DimUbicacion.cod_distrito
-
-
-#https://dbdiagram.io/d/684f850c3cc77757c8faf31b
+Ref: HechosEventosMadrid.tipo_vehiculo > DimVehiculo.tipo_vehiculo
