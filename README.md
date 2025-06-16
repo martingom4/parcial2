@@ -16,7 +16,7 @@ Aplicar técnicas de adquisición de datos desde distintas fuentes (JSON, XML, E
 
 - [x] Fuentes de datos seleccionadas
 - [x] Extracción de datos
-- [ ] Transformación y limpieza
+- [x] Transformación y limpieza
 - [ ] Modelo estrella en base de datos
 - [ ] Dashboard interactivo
 
