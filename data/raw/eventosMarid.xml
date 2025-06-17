@@ -49,8 +49,8 @@
     <comunidad>Comunidad de Madrid</comunidad>
     <zona_general>Centro</zona_general>
     <tipo_evento>Cultura urbana</tipo_evento>
-    <fecha_inicio>2024</fecha_inicio>
-    <fecha_fin></fecha_fin>
+    <fecha_inicio>2024-10-25</fecha_inicio>
+    <fecha_fin>2024-11-09</fecha_fin>
     <descripcion>Festival con conciertos, DJs y breakdance</descripcion>
   </evento>
   <evento>
@@ -58,8 +58,8 @@
     <comunidad>Comunidad de Madrid</comunidad>
     <zona_general>Centro</zona_general>
     <tipo_evento>Cultural</tipo_evento>
-    <fecha_inicio>2024-10</fecha_inicio>
-    <fecha_fin></fecha_fin>
+    <fecha_inicio>2024-10-04</fecha_inicio>
+    <fecha_fin>2024-10-13</fecha_fin>
     <descripcion>Actividades culturales en espacios públicos</descripcion>
   </evento>
   <evento>
@@ -117,12 +117,21 @@
     <descripcion>Bruce Springsteen y Metallica en el estadio Metropolitano</descripcion>
   </evento>
   <evento>
-    <nombre>Conciertos en Bernabéu</nombre>
+    <nombre>Concierto de Lola Índigo en el Bernabéu</nombre>
     <comunidad>Comunidad de Madrid</comunidad>
     <zona_general>Centro</zona_general>
     <tipo_evento>Música</tipo_evento>
-    <fecha_inicio>2024</fecha_inicio>
-    <fecha_fin></fecha_fin>
-    <descripcion>Eventos de Aitana y Lola Índigo reprogramados</descripcion>
+    <fecha_inicio>2024-06-22</fecha_inicio>
+    <fecha_fin>2024-06-22</fecha_fin>
+    <descripcion>Concierto de Lola Índigo en el estadio Santiago Bernabéu</descripcion>
+  </evento>
+  <evento>
+    <nombre>Concierto de Aitana en el Bernabéu</nombre>
+    <comunidad>Comunidad de Madrid</comunidad>
+    <zona_general>Centro</zona_general>
+    <tipo_evento>Música</tipo_evento>
+    <fecha_inicio>2024-12-28</fecha_inicio>
+    <fecha_fin>2024-12-28</fecha_fin>
+    <descripcion>Concierto de Aitana en el estadio Santiago Bernabéu</descripcion>
   </evento>
 </eventos>
