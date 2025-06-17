@@ -1,0 +1,109 @@
+person_key,tipo_persona,rango_edad,sexo
+1,Conductor,De 55 a 59 años,Hombre
+2,Conductor,De 55 a 59 años,Mujer
+3,Conductor,De 25 a 29 años,Hombre
+4,Conductor,De 35 a 39 años,Hombre
+5,Conductor,De 50 a 54 años,Hombre
+6,Conductor,De 60 a 64 años,Hombre
+7,Conductor,De 21 a 24 años,Hombre
+8,Conductor,De 30 a 34 años,Hombre
+9,Pasajero,De 18 a 20 años,Mujer
+10,Pasajero,De 25 a 29 años,Mujer
+11,Pasajero,De 30 a 34 años,Hombre
+12,Pasajero,De 30 a 34 años,Mujer
+13,Pasajero,De 55 a 59 años,Mujer
+14,Conductor,Desconocido,Desconocido
+15,Pasajero,De 40 a 44 años,Mujer
+16,Conductor,De 18 a 20 años,Mujer
+17,Conductor,De 40 a 44 años,Mujer
+18,Conductor,De 50 a 54 años,Mujer
+19,Conductor,De 30 a 34 años,Mujer
+20,Peatón,De 18 a 20 años,Hombre
+21,Conductor,De 18 a 20 años,Hombre
+22,Conductor,De 35 a 39 años,Mujer
+23,Conductor,De 40 a 44 años,Hombre
+24,Pasajero,De 15 a 17 años,Mujer
+25,Pasajero,De 45 a 49 años,Hombre
+26,Conductor,De 45 a 49 años,Hombre
+27,Conductor,Más de 74 años,Mujer
+28,Conductor,De 65 a 69 años,Hombre
+29,Pasajero,De 65 a 69 años,Mujer
+30,Conductor,De 15 a 17 años,Hombre
+31,Peatón,De 21 a 24 años,Mujer
+32,Conductor,De 45 a 49 años,Mujer
+33,Pasajero,De 25 a 29 años,Hombre
+34,Peatón,De 50 a 54 años,Mujer
+35,Peatón,De 60 a 64 años,Hombre
+36,Conductor,De 21 a 24 años,Mujer
+37,Conductor,De 70 a 74 años,Hombre
+38,Conductor,De 70 a 74 años,Mujer
+39,Conductor,Más de 74 años,Hombre
+40,Conductor,De 65 a 69 años,Mujer
+41,Pasajero,De 65 a 69 años,Hombre
+42,Peatón,De 65 a 69 años,Hombre
+43,Peatón,De 70 a 74 años,Hombre
+44,Pasajero,De 35 a 39 años,Mujer
+45,Pasajero,Menor de 5 años,Hombre
+46,Pasajero,De 50 a 54 años,Mujer
+47,Pasajero,De 6 a 9 años,Mujer
+48,Conductor,De 25 a 29 años,Mujer
+49,Pasajero,De 70 a 74 años,Hombre
+50,Pasajero,De 70 a 74 años,Mujer
+51,Pasajero,De 18 a 20 años,Hombre
+52,Conductor,Desconocido,Hombre
+53,Peatón,De 55 a 59 años,Mujer
+54,Pasajero,De 45 a 49 años,Mujer
+55,Pasajero,De 55 a 59 años,Hombre
+56,Pasajero,De 21 a 24 años,Hombre
+57,Pasajero,De 21 a 24 años,Mujer
+58,Pasajero,De 60 a 64 años,Mujer
+59,Pasajero,De 35 a 39 años,Hombre
+60,Peatón,De 35 a 39 años,Mujer
+61,Pasajero,De 15 a 17 años,Hombre
+62,Pasajero,De 40 a 44 años,Hombre
+63,Pasajero,De 10 a 14 años,Hombre
+64,Pasajero,De 10 a 14 años,Mujer
+65,Pasajero,Más de 74 años,Mujer
+66,Pasajero,Menor de 5 años,Mujer
+67,Peatón,De 55 a 59 años,Hombre
+68,Pasajero,De 50 a 54 años,Hombre
+69,Pasajero,De 6 a 9 años,Hombre
+70,Peatón,De 40 a 44 años,Mujer
+71,Peatón,De 40 a 44 años,Hombre
+72,Peatón,De 45 a 49 años,Mujer
+73,Peatón,Más de 74 años,Hombre
+74,Peatón,De 25 a 29 años,Hombre
+75,Conductor,De 15 a 17 años,Mujer
+76,Peatón,De 50 a 54 años,Hombre
+77,Peatón,De 6 a 9 años,Hombre
+78,Pasajero,Más de 74 años,Hombre
+79,Peatón,De 15 a 17 años,Hombre
+80,Conductor,De 10 a 14 años,Hombre
+81,Conductor,De 60 a 64 años,Mujer
+82,Peatón,De 45 a 49 años,Hombre
+83,Peatón,De 35 a 39 años,Hombre
+84,Peatón,De 18 a 20 años,Mujer
+85,Peatón,De 30 a 34 años,Hombre
+86,Peatón,De 10 a 14 años,Mujer
+87,Peatón,De 25 a 29 años,Mujer
+88,Peatón,De 60 a 64 años,Mujer
+89,Peatón,De 21 a 24 años,Hombre
+90,Peatón,De 65 a 69 años,Mujer
+91,Peatón,Menor de 5 años,Mujer
+92,Peatón,De 10 a 14 años,Hombre
+93,Peatón,De 30 a 34 años,Mujer
+94,Conductor,De 10 a 14 años,Mujer
+95,Peatón,De 15 a 17 años,Mujer
+96,Peatón,De 70 a 74 años,Mujer
+97,Peatón,Más de 74 años,Mujer
+98,Pasajero,De 60 a 64 años,Hombre
+99,Peatón,Menor de 5 años,Hombre
+100,Peatón,De 6 a 9 años,Mujer
+101,Conductor,Desconocido,Mujer
+102,Peatón,Desconocido,Desconocido
+103,Conductor,De 45 a 49 años,Desconocido
+104,Conductor,De 50 a 54 años,Desconocido
+105,Peatón,Desconocido,Hombre
+106,Conductor,De 35 a 39 años,Desconocido
+107,Peatón,Desconocido,Mujer
+108,Conductor,De 6 a 9 años,Hombre

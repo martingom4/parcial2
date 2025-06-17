@@ -1,0 +1,14 @@
+accident_type_key,tipo_accidente
+1,Colisión fronto-lateral
+2,Colisión lateral
+3,Alcance
+4,Choque contra obstáculo fijo
+5,Colisión múltiple
+6,Colisión frontal
+7,Atropello a persona
+8,Caída
+9,Solo salida de la vía
+10,Otro
+11,Vuelco
+12,Atropello a animal
+13,

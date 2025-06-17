@@ -1,62 +1,94 @@
-Table HechosEventosMadrid {
-  id_evento varchar [pk]
-  fecha date
-  hora time
-  tipo_evento varchar
-  tipo_vehiculo varchar
-  cod_distrito int
-  coordenada_x float
-  coordenada_y float
-  alcohol boolean
-  droga boolean
-  fuente varchar
-  id_remolque varchar [ref: > DimRemolque. id_remolque]
-  linea_bus int [ref: > DimRutaBus.linea_id]
-}
 
 Table DimFecha {
-  fecha date [pk]
-  anio int
-  mes int
-  dia int
-  dia_semana varchar
+  date_key integer [pk]
+  date date
+  year integer
+  month integer
+  day integer
+  weekday varchar
+  hour integer [note: 'Opcional, granularidad horaria']
 }
 
 Table DimUbicacion {
-  cod_distrito int
+  ubicacion_key integer [pk]
+  cod_distrito integer
   distrito varchar
-  localizacion varchar
-  tipoVia varchar
+  tipo_via varchar
   via varchar
-  numero int
+  numero integer
   cp varchar
-  Note: 'PK por cod_distrito y localizacion si se requiere más granularidad'
+}
+
+Table DimTipoRegistro {
+  tipo_registro_key integer [pk]
+  tipo_registro varchar [note: 'Accidente / Entrada / Evento']
 }
 
 Table DimVehiculo {
-  tipo_vehiculo varchar
-  tipo_persona varchar
-  rango_edad varchar
-  sexo varchar
-  Note: 'Puede definirse como PK compuesta si se normaliza'
+  vehicle_type_key integer [pk]
+  vehicle_type varchar
 }
 
-Table DimRemolque {
-  id_remolque varchar [pk]
-  deposito varchar
-  motivo varchar
-  turno int
-  grua varchar
+Table DimPersona {
+  person_key integer [pk]
+  person_type varchar [note: 'Conductor, pasajero…']
+  age_range varchar [note: 'Ej. “18–25”, “65+”']
+  gender varchar
 }
 
-Table DimRutaBus {
-  linea_id int
+Table DimRuta {
+  route_key integer [pk]
+  linea_id integer
   linea_nombre varchar
-  orden int
-  parada varchar
-  Note: 'PK compuesta si se requiere orden único por parada'
 }
 
-Ref: HechosEventosMadrid.fecha > DimFecha.fecha
-Ref: HechosEventosMadrid.cod_distrito > DimUbicacion.cod_distrito
-Ref: HechosEventosMadrid.tipo_vehiculo > DimVehiculo.tipo_vehiculo
+Table DimTipoAccidente {
+  accident_type_key integer [pk]
+  accident_type varchar [note: 'Choque, atropello…']
+}
+
+Table DimTipoEvento {
+  event_type_key integer [pk]
+  event_type varchar [note: 'Concierto, manifestación…']
+}
+
+Table DimSeveridad {
+  severity_key integer [pk]
+  severity_code integer
+  description varchar [note: 'Leve, Grave, Fatal…']
+}
+
+Table DimMotivo {
+  motive_key integer [pk]
+  motive_desc varchar [note: 'Motivo de la entrada de grúa']
+}
+
+
+Table HechosIncidentes {
+  incidente_id integer [pk]
+  date_key integer [not null]
+  ubicacion_key integer [not null]
+  tipo_registro_key integer [not null]
+  vehicle_type_key integer
+  person_key integer
+  route_key integer
+  accident_type_key integer
+  event_type_key integer
+  severity_key integer
+  motive_key integer
+  positive_alcohol boolean
+  positive_drug boolean
+  duration_minutes integer [note: 'Sólo para eventos']
+}
+
+// Relaciones  desde dimensiones a tabla de hechos
+Ref: DimFecha.date_key < HechosIncidentes.date_key
+Ref: DimUbicacion.ubicacion_key < HechosIncidentes.ubicacion_key
+Ref: DimTipoRegistro.tipo_registro_key < HechosIncidentes.tipo_registro_key
+Ref: DimVehiculo.vehicle_type_key < HechosIncidentes.vehicle_type_key
+Ref: DimPersona.person_key < HechosIncidentes.person_key
+Ref: DimRuta.route_key < HechosIncidentes.route_key
+Ref: DimTipoAccidente.accident_type_key < HechosIncidentes.accident_type_key
+Ref: DimTipoEvento.event_type_key < HechosIncidentes.event_type_key
+Ref: DimSeveridad.severity_key < HechosIncidentes.severity_key
+Ref: DimMotivo.motive_key < HechosIncidentes.motive_key

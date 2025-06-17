@@ -1,67 +1,94 @@
 CREATE DATABASE modelo_estrella_madrid;
 USE modelo_estrella_madrid;
 
-CREATE TABLE hechos_eventos (
-    id_evento VARCHAR(50) PRIMARY KEY,
-    fecha DATE,
-    hora TIME,
-    tipo_evento VARCHAR(50),           -- Ej: 'Accidente', 'Remolque', 'Estacion'
-    tipo_vehiculo VARCHAR(50),
-    cod_distrito INT,
-    coordenada_x FLOAT,
-    coordenada_y FLOAT,
-    alcohol CHAR(1),                   -- 'S' o 'N'
-    droga CHAR(1),                     -- 'S' o 'N'
-    fuente VARCHAR(50)                -- De dónde proviene: 'accidentes', 'remolques', 'bicicletas'
+CREATE TABLE `DimFecha` (
+  `date_key` integer PRIMARY KEY,
+  `date` date,
+  `year` integer,
+  `month` integer,
+  `day` integer,
+  `weekday` varchar(255),
+  `hour` integer COMMENT 'Opcional, granularidad horaria'
 );
 
-CREATE TABLE dim_fecha (
-    fecha DATE PRIMARY KEY,
-    anio INT,
-    mes INT,
-    dia INT,
-    dia_semana VARCHAR(20)
+CREATE TABLE `DimUbicacion` (
+  `ubicacion_key` integer PRIMARY KEY,
+  `cod_distrito` integer,
+  `distrito` varchar(255),
+  `tipo_via` varchar(255),
+  `via` varchar(255),
+  `numero` integer,
+  `cp` varchar(255)
 );
 
-CREATE TABLE dim_ubicacion (
-    cod_distrito INT,
-    distrito VARCHAR(50),
-    localizacion VARCHAR(255),
-    tipo_via VARCHAR(50),
-    via VARCHAR(100),
-    numero INT,
-    cp VARCHAR(10),
-    PRIMARY KEY (cod_distrito, localizacion)
+CREATE TABLE `DimTipoRegistro` (
+  `tipo_registro_key` integer PRIMARY KEY,
+  `tipo_registro` varchar(255) COMMENT 'Accidente / Entrada / Evento'
 );
 
-CREATE TABLE dim_vehiculo (
-    tipo_vehiculo VARCHAR(50),
-    tipo_persona VARCHAR(50),
-    rango_edad VARCHAR(50),
-    sexo VARCHAR(10),
-    PRIMARY KEY (tipo_vehiculo, tipo_persona, rango_edad, sexo)
+CREATE TABLE `DimVehiculo` (
+  `vehicle_type_key` integer PRIMARY KEY,
+  `vehicle_type` varchar(255)
 );
 
-CREATE TABLE dim_remolque (
-    idVehiculo VARCHAR(50) PRIMARY KEY,
-    deposito VARCHAR(50),
-    motivo VARCHAR(50),
-    turno INT,
-    grua VARCHAR(10)
+CREATE TABLE `DimPersona` (
+  `person_key` integer PRIMARY KEY,
+  `person_type` varchar(255) COMMENT 'Conductor, pasajero…',
+  `age_range` varchar(255) COMMENT 'Ej. “18–25”, “65+”',
+  `gender` varchar(255)
 );
 
-CREATE TABLE dim_ruta_bus (
-    linea_id VARCHAR(10),
-    linea_nombre VARCHAR(255),
-    orden INT,
-    parada VARCHAR(100),
-    PRIMARY KEY (linea_id, orden)
+CREATE TABLE `DimRuta` (
+  `route_key` integer PRIMARY KEY,
+  `linea_id` integer,
+  `linea_nombre` varchar(255)
 );
 
-ALTER TABLE hechos_eventos
-ADD CONSTRAINT fk_fecha FOREIGN KEY (fecha) REFERENCES dim_fecha(fecha);
+CREATE TABLE `DimTipoAccidente` (
+  `accident_type_key` integer PRIMARY KEY,
+  `accident_type` varchar(255) COMMENT 'Choque, atropello…'
+);
 
--- Solo si se usan códigos válidos y coincidentes
--- ALTER TABLE hechos_eventos
--- ADD CONSTRAINT fk_distrito FOREIGN KEY (cod_distrito, localizacion)
--- REFERENCES dim_ubicacion(cod_distrito, localizacion);
+CREATE TABLE `DimTipoEvento` (
+  `event_type_key` integer PRIMARY KEY,
+  `event_type` varchar(255) COMMENT 'Concierto, manifestación…'
+);
+
+CREATE TABLE `DimSeveridad` (
+  `severity_key` integer PRIMARY KEY,
+  `severity_code` integer,
+  `description` varchar(255) COMMENT 'Leve, Grave, Fatal…'
+);
+
+CREATE TABLE `DimMotivo` (
+  `motive_key` integer PRIMARY KEY,
+  `motive_desc` varchar(255) COMMENT 'Motivo de la entrada de grúa'
+);
+
+CREATE TABLE `HechosIncidentes` (
+  `incidente_id` integer PRIMARY KEY,
+  `date_key` integer NOT NULL,
+  `ubicacion_key` integer NOT NULL,
+  `tipo_registro_key` integer NOT NULL,
+  `vehicle_type_key` integer,
+  `person_key` integer,
+  `route_key` integer,
+  `accident_type_key` integer,
+  `event_type_key` integer,
+  `severity_key` integer,
+  `motive_key` integer,
+  `positive_alcohol` boolean,
+  `positive_drug` boolean,
+  `duration_minutes` integer COMMENT 'Sólo para eventos'
+);
+
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`date_key`) REFERENCES `DimFecha` (`date_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`ubicacion_key`) REFERENCES `DimUbicacion` (`ubicacion_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`tipo_registro_key`) REFERENCES `DimTipoRegistro` (`tipo_registro_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`vehicle_type_key`) REFERENCES `DimVehiculo` (`vehicle_type_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`person_key`) REFERENCES `DimPersona` (`person_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`route_key`) REFERENCES `DimRuta` (`route_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`accident_type_key`) REFERENCES `DimTipoAccidente` (`accident_type_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`event_type_key`) REFERENCES `DimTipoEvento` (`event_type_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`severity_key`) REFERENCES `DimSeveridad` (`severity_key`);
+ALTER TABLE `HechosIncidentes` ADD FOREIGN KEY (`motive_key`) REFERENCES `DimMotivo` (`motive_key`);
