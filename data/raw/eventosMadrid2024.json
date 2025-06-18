@@ -1,0 +1,141 @@
+{
+	"eventos": {
+		"evento": [
+			{
+				"nombre": "San Silvestre Vallecana",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Sureste",
+				"tipo_evento": "Deportivo",
+				"fecha_inicio": "2024-12-31",
+				"fecha_fin": "",
+				"descripcion": "Carrera popular de 10 km en Vallecas"
+			},
+			{
+				"nombre": "Mad Cool Festival",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Noreste",
+				"tipo_evento": "Música",
+				"fecha_inicio": "2024-07-10",
+				"fecha_fin": "2024-07-12",
+				"descripcion": "Festival de música pop, rock e indie en Valdebebas"
+			},
+			{
+				"nombre": "Festival Río Babel",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Música",
+				"fecha_inicio": "2024-07-04",
+				"fecha_fin": "2024-07-05",
+				"descripcion": "Festival de música española, latina e internacional"
+			},
+			{
+				"nombre": "Carmen (Teatro)",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Ópera",
+				"fecha_inicio": "2024-05-08",
+				"fecha_fin": "2024-05-18",
+				"descripcion": "150 años de la ópera 'Carmen' en el Teatro Real"
+			},
+			{
+				"nombre": "La Traviata",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Ópera",
+				"fecha_inicio": "2024-06-24",
+				"fecha_fin": "2024-07-23",
+				"descripcion": "Producción de Verdi en el Teatro Real"
+			},
+			{
+				"nombre": "Madrid Urban Fest",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Cultura urbana",
+				"fecha_inicio": "2024-10-25",
+				"fecha_fin": "2024-11-09",
+				"descripcion": "Festival con conciertos, DJs y breakdance"
+			},
+			{
+				"nombre": "Hispanidad",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Cultural",
+				"fecha_inicio": "2024-10-04",
+				"fecha_fin": "2024-10-13",
+				"descripcion": "Actividades culturales en espacios públicos"
+			},
+			{
+				"nombre": "Manifestación 25N",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Protesta",
+				"fecha_inicio": "2024-11-25",
+				"fecha_fin": "",
+				"descripcion": "Marcha contra violencia de género desde Atocha y Cibeles"
+			},
+			{
+				"nombre": "Europa Viva 24",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Protesta",
+				"fecha_inicio": "2024-05-19",
+				"fecha_fin": "",
+				"descripcion": "Marcha contra congreso de Vox en Plaza de Colón"
+			},
+			{
+				"nombre": "Pro-palestina",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Protesta",
+				"fecha_inicio": "2024-09-27",
+				"fecha_fin": "",
+				"descripcion": "Manifestación en apoyo a Palestina en el centro de Madrid"
+			},
+			{
+				"nombre": "Final Champions League",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Internacional",
+				"tipo_evento": "Deportivo",
+				"fecha_inicio": "2024-06-01",
+				"fecha_fin": "",
+				"descripcion": "Real Madrid gana la final en Wembley"
+			},
+			{
+				"nombre": "Supercopa de España",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Internacional",
+				"tipo_evento": "Deportivo",
+				"fecha_inicio": "2024-01-10",
+				"fecha_fin": "2024-01-14",
+				"descripcion": "Real Madrid campeón, aunque celebrada en Arabia Saudí"
+			},
+			{
+				"nombre": "Conciertos en Metropolitano",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Este",
+				"tipo_evento": "Música",
+				"fecha_inicio": "2024-06",
+				"fecha_fin": "2024-07",
+				"descripcion": "Bruce Springsteen y Metallica en el estadio Metropolitano"
+			},
+			{
+				"nombre": "Concierto de Lola Índigo en el Bernabéu",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Música",
+				"fecha_inicio": "2024-06-22",
+				"fecha_fin": "2024-06-22",
+				"descripcion": "Concierto de Lola Índigo en el estadio Santiago Bernabéu"
+			},
+			{
+				"nombre": "Concierto de Aitana en el Bernabéu",
+				"comunidad": "Comunidad de Madrid",
+				"zona_general": "Centro",
+				"tipo_evento": "Música",
+				"fecha_inicio": "2024-12-28",
+				"fecha_fin": "2024-12-28",
+				"descripcion": "Concierto de Aitana en el estadio Santiago Bernabéu"
+			}
+		]
+	}
+}
