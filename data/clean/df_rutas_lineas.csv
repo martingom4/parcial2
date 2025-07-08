@@ -1,0 +1,646 @@
+linea_id,linea_nombre,orden,parada
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,1,INTERCAMBIADOR DE PLAZA CASTILLA
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,2,Pº CASTELLANA-HOSPITAL LA PAZ
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,3,AV.BURGOS-AV.MANOTERAS
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,4,AV.BURGOS-FCO.PI Y MARGALL
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,5,AV.BURGOS-C.C.SANCHINARRO
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,6,AV.BURGOS-DOMINICOS
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,7,CTRA.A1-CUESTA BLANCA
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,8,CTRA.IRÚN-CONCESIONARIO
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,9,AV.OLÍMPICA-C.C.LA VEGA
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,10,AV.OLÍMPICA-C.C.LA VEGA
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,11,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,12,AV.ESPAÑA-M.SEBASTIÁN IZUEL
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,13,MARQUESA VIUDA DE ALDAMA-NªSRA.DEL PILAR
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,14,MARQUÉS VALDAVIA-RAMÓN FDEZ.GUISASOLA
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,15,MARQUÉS VALDAVIA-NEMESIO CASTRO
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,16,MARQUÉS VALDAVIA-AV.ESPAÑA
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,17,AV.ESPAÑA-AYUNTAMIENTO
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,18,AV.ESPAÑA-CENTRO DE SALUD
+151,MADRID (Plaza de Castilla) - ALCOBENDAS,19,AV.ESPAÑA-EST.ALCOBENDAS-S.S.REYES
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),1,INTERCAMBIADOR DE PLAZA CASTILLA
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),2,Pº CASTELLANA-HOSPITAL LA PAZ
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),3,AV.BURGOS-FCO.PI Y MARGALL
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),4,AV.BURGOS-C.C.SANCHINARRO
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),5,AV.BURGOS-DOMINICOS
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),6,CTRA.A1-CUESTA BLANCA
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),7,CTRA.IRÚN-CONCESIONARIO
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),8,AV.OLÍMPICA-C.C.LA VEGA
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),9,PºEUROPA-AV.JUNCAL
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),10,PºEUROPA-MARÍA SANTOS COLMENAR
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),11,PºEUROPA-LEOPOLDO GIMENO
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),12,ISLA GRACIOSA-ISLA DE HIERRO
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),13,ISLA GRACIOSA-ANTENA 3
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),14,PºEUROPA-HOSPITAL INFANTA SOFÍA
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),15,PZA.CONCHA ESPINA-MARÍA MOLINER
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),16,JOSÉ HIERRO-MERCÉ RODODERA
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),17,JOSÉ HIERRO-JULIO REY PASTOR
+152C,MADRID (Plaza de Castilla) - S.S. de los Reyes (Dehesa Vieja),18,SALVADOR MADARIAGA-C.C.ALEGRA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,1,INTERCAMBIADOR DE PLAZA CASTILLA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,2,Pº CASTELLANA-HOSPITAL LA PAZ
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,3,AV.BURGOS-FCO.PI Y MARGALL
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,4,AV.BURGOS-C.C.SANCHINARRO
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,5,AV.BURGOS-DOMINICOS
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,6,CTRA.A1-CUESTA BLANCA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,7,CTRA.IRÚN-CONCESIONARIO
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,8,AV.OLÍMPICA-C.C.LA VEGA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,9,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,10,AV.ESPAÑA-M.SEBASTIÁN IZUEL
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,11,MARQUESA VIUDA DE ALDAMA-NªSRA.DEL PILAR
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,12,MARQUÉS VALDAVIA-RAMÓN FDEZ.GUISASOLA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,13,MARQUÉS VALDAVIA-NEMESIO CASTRO
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,14,MARQUÉS VALDAVIA-AV.ESPAÑA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,15,MARQUÉS VALDAVIA-RUPERTO CHAPÍ
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,16,MARQUÉS VALDAVIA-MANUEL DE FALLA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,17,MANUEL DE FALLA-CENTRO DE MAYORES
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,18,MANUEL DE FALLA-EST.MANUEL DE FALLA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,19,MANUEL DE FALLA-PARQUE EXTREMADURA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,20,MANUEL DE FALLA-INSTITUTO
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,21,AV.VALDELASFUENTES-AV.INDEPENDENCIA
+153,MADRID (Plaza de Castilla) - Alcobendas - Rosa Luxemburgo,22,PZA.UNIVERSIDAD POPULAR-EST.BAUNATAL
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),1,EST.CHAMARTÍN
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),2,Pº CASTELLANA-MANUEL CALDEIRO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),3,Pº CASTELLANA-VIEJAS
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),4,LLANO CASTELLANO-FCO.SANCHA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),5,LLANO CASTELLANO-VALDEGOVIA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),6,NTRA.SRA.VALVERDE-ISLA SUMATRA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),7,NTRA.SRA.VALVERDE-ALONSO QUIJANO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),8,CTRA.FUENCARRAL A ALCOBENDAS S/N
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),9,C.FUENCARRAL ALCOBENDAS-ISABEL COLBRAND
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),10,PZA.PARÍS-P.EMPRESARIAL LA MORALEJA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),11,FCO.CHICO MENDES-C.C.PLANET ALCOBENDAS
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),12,YUCA-CTRA.N1
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),13,CTRA.IRÚN-CONCESIONARIO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),14,AV.OLÍMPICA-C.C.LA VEGA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),15,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),16,PºEUROPA-AV.JUNCAL
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),17,PºEUROPA-MARÍA SANTOS COLMENAR
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),18,PºEUROPA-LEOPOLDO GIMENO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),19,AV.BAUNATAL-PZA.ANDRÉS CABALLERO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),20,PZA.UNIVERSIDAD POPULAR-EST.BAUNATAL
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),21,AV.BAUNATAL-PZA.ANDRÉS CABALLERO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),22,AV.SIERRA-CERVANTES
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),23,AV.COLMENAR VIEJO-NTRA.SRA.CARMEN
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),24,REAL-SACRAMENTO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),25,MARQUESA VIUDA DE ALDAMA-TRVA.DEL CAÑÓN
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),26,MARQUESA VIUDA DE ALDAMA-NªSRA.DEL PILAR
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),27,LIBERTAD-JULIÁN BAENA CASTRO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),28,CTRA.M603-C.C.RÍO NORTE
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),29,CTRA.M603-POL.IND.CALABOZOS
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),30,CTRA.FUENCARRAL-SAN RAFAEL
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),31,AV.EUROPA-P.EMPRESARIAL LA MORALEJA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),32,PÓRTICO DE LA GLORIA-RONDA COMUNICACIÓN
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),33,CTRA.FUENCARRAL A ALCOBENDAS-M40
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),34,CTRA.FUENCARRAL A ALCOBENDAS S/N
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),35,NTRA.SRA.VALVERDE-ALONSO QUIJANO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),36,NTRA.SRA.VALVERDE-ISLA SUMATRA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),37,LLANO CASTELLANO-VALDEGOVIA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),38,LLANO CASTELLANO-FCO.SANCHA
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),39,MAURICIO LEGENDRE-VIEJAS
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),40,MAURICIO LEGENDRE-M.CALDEIRO
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),41,MAURICIO LEGENDRE-FCO.PALAU Y QUER
+154,MADRID (Chamartín) - S.S. REYES CIRCULAR (Por Fuencarral),42,EST.CHAMARTÍN
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),1,INTERCAMBIADOR DE PLAZA CASTILLA
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),2,Pº CASTELLANA-HOSPITAL LA PAZ
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),3,AV.BURGOS-AV.MANOTERAS
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),4,AV.BURGOS-FCO.PI Y MARGALL
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),5,AV.BURGOS-C.C.SANCHINARRO
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),6,AV.BURGOS-DOMINICOS
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),7,CTRA.A1-EL ENCINAR DE LOS REYES
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),8,CTRA.A1-CUESTA BLANCA
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),9,CTRA.IRÚN-CONCESIONARIO
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),10,AV.OLÍMPICA-C.C.LA VEGA
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),11,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),12,REAL-CARLOS RUIZ
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),13,AV.COLMENAR VIEJO-RÍO DUERO
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),14,AV.SIERRA-NAVAS DE TOLOSA
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),15,AV.BAUNATAL-PZA.ANDRÉS CABALLERO
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),16,PZA.UNIVERSIDAD POPULAR-EST.BAUNATAL
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),17,AV.ROSA LUXEMBURGO-CALDERÓN DE LA BARCA
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),18,AV.ARAGÓN-CENTRO DE SALUD
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),19,AV.ARAGÓN-PARQUE VELÓDROMO
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),20,AV.TENERIFE-GOMERA
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),21,AV.TENERIFE-BEATRIZ GALINDO
+154C,Madrid (Plaza de Castilla)-S.S. de los Reyes (Avda. de los Quiñones),22,AV.QUIÑONES-CERRO DEL BAILE
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,1,INTERCAMBIADOR DE PLAZA CASTILLA
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,2,Pº CASTELLANA-HOSPITAL LA PAZ
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,3,AV.BURGOS-FCO.PI Y MARGALL
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,4,AV.BURGOS-C.C.SANCHINARRO
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,5,AV.BURGOS-DOMINICOS
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,6,CTRA.A1-EL ENCINAR DE LOS REYES
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,7,CAMINO NUEVO-PZA.SOTO
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,8,DALIA-KERRIA
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,9,DALIA-JAZMÍN
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,10,DALIA-LAUREL
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,11,DALIA-AZALEA
+155,Madrid (Plaza de Castilla) - El Soto de la Moraleja,12,BEGONIA-AZALEA
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,1,INTERCAMBIADOR DE PLAZA CASTILLA
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,2,Pº CASTELLANA-HOSPITAL LA PAZ
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,3,AV.BURGOS-FCO.PI Y MARGALL
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,4,MARÍA DE PORTUGAL-FCO.PI Y MARGALL
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,5,MARÍA PORTUGAL-LEONOR AUSTRIA
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,6,MARÍA PORTUGAL-MARGARITA PARMA
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,7,PADRES DOMINICOS-CONVENTO
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,8,PADRES DOMINICOS-M.POMBO ANGULO
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,9,MANUEL POMBO ANGULO-COLEGIO
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,10,Pº LOS PARQUES-ESTAFETA
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,11,Pº DE LOS PARQUES Nº17
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,12,Pº LOS PARQUES-VEREDA DEL PALACIO
+155B,Madrid (Plaza de Castilla) - El Encinar de los Reyes,13,Pº PARQUES-ENCINAR DE LOS REYES
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),1,INTERCAMBIADOR DE PLAZA CASTILLA
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),2,Pº CASTELLANA-HOSPITAL LA PAZ
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),3,AV.BURGOS-FCO.PI Y MARGALL
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),4,AV.BURGOS-C.C.SANCHINARRO
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),5,AV.BURGOS-DOMINICOS
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),6,CTRA.A1-CUESTA BLANCA
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),7,CTRA.IRÚN-CONCESIONARIO
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),8,AV.OLÍMPICA-C.C.LA VEGA
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),9,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),10,PºEUROPA-AV.JUNCAL
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),11,PºEUROPA-MARÍA SANTOS COLMENAR
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),12,PºEUROPA-LEOPOLDO GIMENO
+156,Madrid (Plaza de Castilla) - S.S. de los Reyes (P.I. Moscatelares),13,AV.CAMINO DE LO CORTAO-AV.MATAPIÑONERA
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),1,INTERCAMBIADOR DE PLAZA CASTILLA
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),2,Pº CASTELLANA-HOSPITAL LA PAZ
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),3,AV.BURGOS-FCO.PI Y MARGALL
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),4,AV.BURGOS-C.C.SANCHINARRO
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),5,AV.BURGOS-DOMINICOS
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),6,CTRA.A1-EL ENCINAR DE LOS REYES
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),7,AV.EUROPA-PZA.ROMA
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),8,AV.EUROPA-C.C.MORALEJA GREEN
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),9,AV.EUROPA-PZA.PARÍS
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),10,FCO.CHICO MENDES-C.C.PLANET ALCOBENDAS
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),11,YUCA-CTRA.N1
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),12,CTRA.IRÚN-CONCESIONARIO
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),13,PºCHOPERA-CENTRO DE SALUD
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),14,PºCHOPERA-CÁDIZ
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),15,PºCHOPERA-CENTRO CULTURAL
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),16,PºCHOPERA-CENTRO SALUD VALDAVIA
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),17,PºCHOPERA-EDUCACIÓN INFANTIL ESPECIAL
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),18,PºCHOPERA-AV.CAMILO JOSÉ CELA
+157,Madrid (Plaza de Castilla) - Alcobendas (P.Chopera),19,AV.CAMILO J.CELA-GABRIEL GªMÁRQUEZ
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),1,INTERCAMBIADOR DE PLAZA CASTILLA
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),2,Pº CASTELLANA-HOSPITAL LA PAZ
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),3,AV.BURGOS-FCO.PI Y MARGALL
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),4,AV.BURGOS-C.C.SANCHINARRO
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),5,AV.BURGOS-DOMINICOS
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),6,RONDA COMUNICACIÓN-DISTRITO C
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),7,AV.EUROPA-PZA.ROMA
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),8,AV.EUROPA-C.C.MORALEJA GREEN
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),9,AV.EUROPA-PZA.PARÍS
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),10,CTRA.M603-C.C.PLANET ALCOBENDAS
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),11,CTRA.M603-C.C.RÍO NORTE
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),12,AV.VALDELAPARRA-MUSEO DE LA CIENCIA
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),13,AV.VALDELAPARRA-PARQUE ANDALUCÍA
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),14,AV.VALDELAPARRA-DR.SEVERO OCHOA
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),15,AV.DR.SEVERO OCHOA-RAMÓN Y CAJAL
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),16,AV.DR.SEVERO OCHOA-PABELLÓN DEPORTIVO
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),17,MARQUÉS VALDAVIA-EST.VALDELASFUENTES
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),18,AV.PABLO IGLESIAS-JOSÉ HIERRO
+157C,Madrid (Plaza de Castilla) - Alcobendas (Valdelasfuentes),19,FELICIDAD-AV.MAGIA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),1,AV.SAN LUIS-AV.BURGOS
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),2,AV.SAN LUIS-CONDADO DE TREVIÑO
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),3,AV.SAN LUIS-SERRANO GALVACHE
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),4,ARTURO SORIA-AV.SAN LUIS
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),5,ARTURO SORIA-DALIA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),6,ARTURO SORIA-AV.MANUEL AZAÑA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),7,PZA.ALCALDE MORENO TORRES
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),8,AV.FCO.PI Y MARGALL-V.BLASCO IBÁÑEZ
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),9,FCO. PI Y MARGALL-ISABEL VALOIS
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),10,FCO. PI Y MARGALL-MARIA DE PORTUGAL
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),11,AV.BURGOS-C.C.SANCHINARRO
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),12,AV.BURGOS-DOMINICOS
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),13,CTRA.A1-CUESTA BLANCA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),14,CTRA.IRÚN-CONCESIONARIO
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),15,AV.OLÍMPICA-C.C.LA VEGA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),16,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),17,AV.ESPAÑA-M.SEBASTIÁN IZUEL
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),18,MARQUESA VIUDA DE ALDAMA-NªSRA.DEL PILAR
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),19,MARQUÉS VALDAVIA-RAMÓN FDEZ.GUISASOLA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),20,MARQUÉS VALDAVIA-NEMESIO CASTRO
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),21,MARQUÉS VALDAVIA-AV.ESPAÑA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),22,AV.ESPAÑA-AYUNTAMIENTO
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),23,AV.ESPAÑA-EST.ALCOBENDAS-S.S.REYES
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),24,AV.SIERRA-C.C.LA VIÑA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),25,AV.SIERRA-NAVAS DE TOLOSA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),26,AV.BAUNATAL-PZA.ANDRÉS CABALLERO
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),27,PZA.UNIVERSIDAD POPULAR-EST.BAUNATAL
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),28,AV.ROSA LUXEMBURGO-CALDERÓN DE LA BARCA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),29,MANZANARES-HAYEDO DEL MONTEJO
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),30,PICOS DE EUROPA-TIMANFAYA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),31,PICOS DE EUROPA-SIERRA ESPUÑA
+158,Madrid (Pinar de Chamartín) - San Sebastián de los Reyes (Tempranales),32,PICOS DE EUROPA-SIERRA DE ALBARRACÍN
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),1,INTERCAMBIADOR DE PLAZA CASTILLA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),2,Pº CASTELLANA-HOSPITAL LA PAZ
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),3,AV.BURGOS-FCO.PI Y MARGALL
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),4,AV.BURGOS-C.C.SANCHINARRO
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),5,AV.BURGOS-DOMINICOS
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),6,CTRA.A1-CUESTA BLANCA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),7,CALÉNDULA-YUCA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),8,CALÉNDULA-RESIDENCIAL MINIPARK
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),9,AV.BRUSELAS-CENTRO EMPRESARIAL
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),10,AV.BRUSELAS-CENTRO COMERCIAL
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),11,AV.BRUSELAS-EST.LA MORALEJA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),12,AV.BRUSELAS-SALVIA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),13,AV.VEGA-FRANCISCA DELGADO
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),14,AV.VEGA-ANABEL SEGURA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),15,AV.RAFAEL NADAL-TERESA PERALES
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),16,AV.RAFAEL NADAL-FCO.FDEZ.OCHOA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),17,AV.FERNANDO ALONSO-UNIV.EUROPEA MADRID
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),18,AV.VEGA-AV.BARAJAS
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),19,AV.VEGA-ANABEL SEGURA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),20,FRANCISCA DELGADO-AV.VEGA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),21,AV.BRUSELAS-FRANCISCA DELGADO
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),22,AV.BRUSELAS-EST.LA MORALEJA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),23,AV.BRUSELAS-CENTRO COMERCIAL
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),24,AV.BRUSELAS-CENTRO EMPRESARIAL
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),25,CALÉNDULA-RESIDENCIAL MINIPARK
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),26,CALÉNDULA-YUCA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),27,CTRA.A1-CUESTA BLANCA
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),28,CTRA.A1-EL ENCINAR DE LOS REYES
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),29,AV.BURGOS-DOMINICOS
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),30,AV.BURGOS-CENTRO FINANCIERO
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),31,AV.BURGOS Nº 93
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),32,AV.BURGOS Nº 87-PASO ELEVADO
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),33,PºLA CASTELLANA-HOSPITAL LA PAZ
+159,Madrid (Plaza de Castilla) - Alcobendas (Arroyo de la Vega),34,INTERCAMBIADOR DE PLAZA CASTILLA
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,1,INTERCAMBIADOR DE PLAZA CASTILLA
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,2,Pº CASTELLANA-HOSPITAL LA PAZ
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,3,AV.BURGOS-FCO.PI Y MARGALL
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,4,AV.BURGOS-C.C.SANCHINARRO
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,5,AV.BURGOS-DOMINICOS
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,6,CTRA.A1-CUESTA BLANCA
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,7,CTRA.IRÚN-CONCESIONARIO
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,8,AV.OLÍMPICA-C.C.LA VEGA
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,9,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,10,PºEUROPA-AV.JUNCAL
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,11,PºEUROPA-MARÍA SANTOS COLMENAR
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,12,PºEUROPA-LEOPOLDO GIMENO
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,13,ISLA GRACIOSA-ISLA DE HIERRO
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,14,ISLA GRACIOSA-ANTENA 3
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,15,PºEUROPA-HOSPITAL INFANTA SOFÍA
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,16,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,17,CTRA.ANTIGUA DE BURGOS-LA GRANJILLA
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,18,CTRA.ANTIGUA DE BURGOS-CARAVANAS
+161,Madrid (Plaza de Castilla) - Urb. Fuente del Fresno,19,AV.MONTECILLO-AV.TERCIA
+166,San Sebastián de los Reyes - Urbanización Valdelagua,1,REAL-CEMENTERIO
+166,San Sebastián de los Reyes - Urbanización Valdelagua,2,AV.CAMINO DE LO CORTAO-AV.MATAPIÑONERA
+166,San Sebastián de los Reyes - Urbanización Valdelagua,3,AV.CAMINO DE LO CORTAO-AV.FUENTE NUEVA
+166,San Sebastián de los Reyes - Urbanización Valdelagua,4,AV.CAMINO DE LO CORTAO-AV.MONCAYO
+166,San Sebastián de los Reyes - Urbanización Valdelagua,5,PºEUROPA-HOSPITAL INFANTA SOFÍA
+166,San Sebastián de los Reyes - Urbanización Valdelagua,6,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+166,San Sebastián de los Reyes - Urbanización Valdelagua,7,CTRA.ANTIGUA DE BURGOS-LA GRANJILLA
+166,San Sebastián de los Reyes - Urbanización Valdelagua,8,CTRA.ANTIGUA DE BURGOS-CARAVANAS
+166,San Sebastián de los Reyes - Urbanización Valdelagua,9,CTRA.A1-URB.FUENTE EL FRESNO
+166,San Sebastián de los Reyes - Urbanización Valdelagua,10,CTRA.A1-EL ALEMÁN
+166,San Sebastián de los Reyes - Urbanización Valdelagua,11,PZA.ANTONIO CABEZÓN-URB.CLUB DE CAMPO
+166,San Sebastián de los Reyes - Urbanización Valdelagua,12,CTRA.A1-URB.CIUDALCAMPO
+166,San Sebastián de los Reyes - Urbanización Valdelagua,13,AV.PRINCIPAL-CASETA URB.VALDELAGUA
+166,San Sebastián de los Reyes - Urbanización Valdelagua,14,AV.PRINCIPAL-URB.VALDELAGUA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,1,INTERCAMBIADOR DE PLAZA CASTILLA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,2,Pº CASTELLANA-HOSPITAL LA PAZ
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,3,AV.BURGOS-FCO.PI Y MARGALL
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,4,AV.BURGOS-C.C.SANCHINARRO
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,5,AV.BURGOS-DOMINICOS
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,6,CTRA.A1-CUESTA BLANCA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,7,AV.OLÍMPICA-C.C.LA VEGA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,8,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,9,AV.MATAPIÑONERA-CºJUNCAL
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,10,AV.MATAPIÑONERA-PLAZA NORTE
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,11,AV.MATAPIÑONERA-AV.CERRO DEL ÁGUILA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,12,AV.MATAPIÑONERA-AV.CAMINO DE LO CORTAO
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,13,PºEUROPA-AV.MONTES DE OCA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,14,PºEUROPA-GTA.ANTONIO GAUDÍ
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,15,PºEUROPA-HOSPITAL INFANTA SOFÍA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,16,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,17,CTRA.ANTIGUA DE BURGOS-LA GRANJILLA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,18,CTRA.ANTIGUA DE BURGOS-CARAVANAS
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,19,CTRA.A1-URB.FUENTE EL FRESNO
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,20,CTRA.A1-EL ALEMÁN
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,21,CTRA.A1-CIRCUITO DEL JARAMA
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,22,PZA.LA FUENTE-URB.CIUDALCAMPO
+171,Madrid (Plaza de Castilla) - Urb. Santo Domingo,23,AV.GUADALIX-CENTRO COMERCIAL
+180,Alcobendas - Algete,1,AV.ESPAÑA-EST.ALCOBENDAS-S.S.REYES
+180,Alcobendas - Algete,2,AV.ESPAÑA-CENTRO DE MAYORES
+180,Alcobendas - Algete,3,PºEUROPA-AV.JUNCAL
+180,Alcobendas - Algete,4,PºEUROPA-MARÍA SANTOS COLMENAR
+180,Alcobendas - Algete,5,PºEUROPA-LEOPOLDO GIMENO
+180,Alcobendas - Algete,6,PºEUROPA-AV.MONTES DE OCA
+180,Alcobendas - Algete,7,PºEUROPA-GTA.ANTONIO GAUDÍ
+180,Alcobendas - Algete,8,PºEUROPA-HOSPITAL INFANTA SOFÍA
+180,Alcobendas - Algete,9,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+180,Alcobendas - Algete,10,CTRA.ANTIGUA DE BURGOS-LA GRANJILLA
+180,Alcobendas - Algete,11,CTRA.ANTIGUA DE BURGOS-CARAVANAS
+180,Alcobendas - Algete,12,CTRA.M100-CºVIEJO DE BARAJAS
+180,Alcobendas - Algete,13,CTRA.M100-EL CASETÓN
+180,Alcobendas - Algete,14,CTRA.M106-POL.IND.RÍO DE JANEIRO
+180,Alcobendas - Algete,15,CTRA.M106-POL.IND.LA GARZA
+180,Alcobendas - Algete,16,CTRA.M106-POL.IND.EL NOGAL
+180,Alcobendas - Algete,17,MAYOR-SAN JUAN DE LA CRUZ
+180,Alcobendas - Algete,18,CALDO-CASA DE LA JUVENTUD
+180,Alcobendas - Algete,19,RONDA DE LA CONSTITUCIÓN-ALCALÁ
+181,Madrid (Plaza de Castilla) - Algete,1,INTERCAMBIADOR DE PLAZA CASTILLA
+181,Madrid (Plaza de Castilla) - Algete,2,Pº CASTELLANA-HOSPITAL LA PAZ
+181,Madrid (Plaza de Castilla) - Algete,3,AV.BURGOS-FCO.PI Y MARGALL
+181,Madrid (Plaza de Castilla) - Algete,4,AV.BURGOS-C.C.SANCHINARRO
+181,Madrid (Plaza de Castilla) - Algete,5,AV.BURGOS-DOMINICOS
+181,Madrid (Plaza de Castilla) - Algete,6,CTRA.A1-CUESTA BLANCA
+181,Madrid (Plaza de Castilla) - Algete,7,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+181,Madrid (Plaza de Castilla) - Algete,8,CTRA.ANTIGUA DE BURGOS-LA GRANJILLA
+181,Madrid (Plaza de Castilla) - Algete,9,CTRA.ANTIGUA DE BURGOS-CARAVANAS
+181,Madrid (Plaza de Castilla) - Algete,10,CTRA.M100-CºVIEJO DE BARAJAS
+181,Madrid (Plaza de Castilla) - Algete,11,CTRA.M100-EL CASETÓN
+181,Madrid (Plaza de Castilla) - Algete,12,CTRA.M106-POL.IND.RÍO DE JANEIRO
+181,Madrid (Plaza de Castilla) - Algete,13,CTRA.M106-POL.IND.LA GARZA
+181,Madrid (Plaza de Castilla) - Algete,14,CTRA.M106-POL.IND.EL NOGAL
+181,Madrid (Plaza de Castilla) - Algete,15,MAYOR-SAN JUAN DE LA CRUZ
+181,Madrid (Plaza de Castilla) - Algete,16,CALDO-CASA DE LA JUVENTUD
+181,Madrid (Plaza de Castilla) - Algete,17,RONDA DE LA CONSTITUCIÓN-ALCALÁ
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,1,INTERCAMBIADOR DE PLAZA CASTILLA
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,2,Pº CASTELLANA-HOSPITAL LA PAZ
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,3,AV.BURGOS-FCO.PI Y MARGALL
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,4,AV.BURGOS-C.C.SANCHINARRO
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,5,AV.BURGOS-DOMINICOS
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,6,CTRA.A1-CUESTA BLANCA
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,7,CTRA.M100-CºVIEJO DE BARAJAS
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,8,CTRA.M100-EL CASETÓN
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,9,CTRA.M106-POL.IND.RÍO DE JANEIRO
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,10,CTRA.M106-POL.IND.LA GARZA
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,11,CTRA.M106-POL.IND.EL NOGAL
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,12,MAYOR-SAN JUAN DE LA CRUZ
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,13,CALDO-CASA DE LA JUVENTUD
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,14,RONDA DE LA CONSTITUCIÓN-ALCALÁ
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,15,RONDA CONSTITUCIÓN-FUENTE DEL NOQUE
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,16,AV.PAZ-URB.MIRAVAL
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,17,SAN SEBASTIÁN-CONSULTORIO MÉDICO
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,18,ALALPARDO-SAN SEBASTIÁN
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,19,CTRA.M123-URB.EL RETORNO
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,20,VALDEOLMOS-PZA.NACIONAL
+182,Madrid (Plaza de Castilla) - Algete - Valdeolmos,21,VALDEOLMOS-ZARZUELA
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,1,INTERCAMBIADOR DE PLAZA CASTILLA
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,2,Pº CASTELLANA-HOSPITAL LA PAZ
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,3,AV.BURGOS-FCO.PI Y MARGALL
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,4,AV.BURGOS-C.C.SANCHINARRO
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,5,AV.BURGOS-DOMINICOS
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,6,CTRA.A1-CUESTA BLANCA
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,7,PºEUROPA-HOSPITAL INFANTA SOFÍA
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,8,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,9,CTRA.ANTIGUA DE BURGOS-LA GRANJILLA
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,10,CTRA.ANTIGUA DE BURGOS-CARAVANAS
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,11,CTRA.M100-CºVIEJO DE BARAJAS
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,12,CTRA.M100-EL CASETÓN
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,13,CTRA.M103-URB.MIRADOR DE COBEÑA
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,14,OLIVO-CLÍNICA MUNICIPAL
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,15,CTRA.M118-CAMINO DE LA DEHESA
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,16,CTRA.M103-POLIDEPORTIVO
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,17,MAYOR-SAN JUAN DE LA CRUZ
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,18,CALDO-CASA DE LA JUVENTUD
+183,Madrid (Plaza de Castilla) - Cobeña - Algete,19,RONDA DE LA CONSTITUCIÓN-ALCALÁ
+184,Madrid (Plaza de Castilla) - El Casar,1,INTERCAMBIADOR DE PLAZA CASTILLA
+184,Madrid (Plaza de Castilla) - El Casar,2,Pº CASTELLANA-HOSPITAL LA PAZ
+184,Madrid (Plaza de Castilla) - El Casar,3,AV.BURGOS-FCO.PI Y MARGALL
+184,Madrid (Plaza de Castilla) - El Casar,4,AV.BURGOS-C.C.SANCHINARRO
+184,Madrid (Plaza de Castilla) - El Casar,5,AV.BURGOS-DOMINICOS
+184,Madrid (Plaza de Castilla) - El Casar,6,CTRA.A1-CUESTA BLANCA
+184,Madrid (Plaza de Castilla) - El Casar,7,CTRA.M100-CºVIEJO DE BARAJAS
+184,Madrid (Plaza de Castilla) - El Casar,8,CTRA.M100-EL CASETÓN
+184,Madrid (Plaza de Castilla) - El Casar,9,CTRA.M106-POL.IND.RÍO DE JANEIRO
+184,Madrid (Plaza de Castilla) - El Casar,10,CTRA.M106-POL.IND.LA GARZA
+184,Madrid (Plaza de Castilla) - El Casar,11,CTRA.M106-POL.IND.EL NOGAL
+184,Madrid (Plaza de Castilla) - El Casar,12,SANTA TERESA DE JESÚS-J.RAMÓN JIMENEZ
+184,Madrid (Plaza de Castilla) - El Casar,13,SANTA TERESA DE JESÚS-CASA DE NIÑOS
+184,Madrid (Plaza de Castilla) - El Casar,14,ALGETE-CTRA.ALALPARDO
+184,Madrid (Plaza de Castilla) - El Casar,15,CTRA.TORRELAGUNA-LAS CLARISAS
+184,Madrid (Plaza de Castilla) - El Casar,16,CTRA.M117-URB.LOS MANANTIALES
+184,Madrid (Plaza de Castilla) - El Casar,17,CTRA.M117-EL CHAPARRO
+184,Madrid (Plaza de Castilla) - El Casar,18,CTRA.M117-URB.EL JUNCAL
+184,Madrid (Plaza de Castilla) - El Casar,19,CTRA.M117-URB.LA CUEVA
+184,Madrid (Plaza de Castilla) - El Casar,20,AV.LOS ARENALES-URB.EL COTO
+184,Madrid (Plaza de Castilla) - El Casar,21,AV.VALDETORRES-ISLAS VIRGENES
+184,Madrid (Plaza de Castilla) - El Casar,22,AV.VALDETORRES-AV.MEDITERRÁNEO
+184,Madrid (Plaza de Castilla) - El Casar,23,AV.VALDETORRES-MADRID
+184,Madrid (Plaza de Castilla) - El Casar,24,AV.VALDETORRES-PARIS
+184,Madrid (Plaza de Castilla) - El Casar,25,SAN ROQUE-CTRA.FUENTELSAZ
+184,Madrid (Plaza de Castilla) - El Casar,26,LA UNIÓN-JUAN CARLOS I
+185,Madrid (Plaza de Castilla) - Nuevo Algete,1,INTERCAMBIADOR DE PLAZA CASTILLA
+185,Madrid (Plaza de Castilla) - Nuevo Algete,2,Pº CASTELLANA-HOSPITAL LA PAZ
+185,Madrid (Plaza de Castilla) - Nuevo Algete,3,AV.BURGOS-FCO.PI Y MARGALL
+185,Madrid (Plaza de Castilla) - Nuevo Algete,4,AV.BURGOS-C.C.SANCHINARRO
+185,Madrid (Plaza de Castilla) - Nuevo Algete,5,AV.BURGOS-DOMINICOS
+185,Madrid (Plaza de Castilla) - Nuevo Algete,6,CTRA.A1-CUESTA BLANCA
+185,Madrid (Plaza de Castilla) - Nuevo Algete,7,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+185,Madrid (Plaza de Castilla) - Nuevo Algete,8,CTRA.ANTIGUA DE BURGOS-LA GRANJILLA
+185,Madrid (Plaza de Castilla) - Nuevo Algete,9,CTRA.ANTIGUA DE BURGOS-CARAVANAS
+185,Madrid (Plaza de Castilla) - Nuevo Algete,10,CTRA.M100-CºVIEJO DE BARAJAS
+185,Madrid (Plaza de Castilla) - Nuevo Algete,11,CTRA.M100-EL CASETÓN
+185,Madrid (Plaza de Castilla) - Nuevo Algete,12,CTRA.M103-URB.MIRADOR DE COBEÑA
+185,Madrid (Plaza de Castilla) - Nuevo Algete,13,OLIVO-CLÍNICA MUNICIPAL
+185,Madrid (Plaza de Castilla) - Nuevo Algete,14,CTRA.M118-CAMINO DE LA DEHESA
+185,Madrid (Plaza de Castilla) - Nuevo Algete,15,CTRA.M103-POLIDEPORTIVO
+185,Madrid (Plaza de Castilla) - Nuevo Algete,16,MAYOR-SAN JUAN DE LA CRUZ
+185,Madrid (Plaza de Castilla) - Nuevo Algete,17,PALOMARES-PARQUE LOS OLIVOS
+185,Madrid (Plaza de Castilla) - Nuevo Algete,18,OLIVOS-MARÍA AMOR
+185,Madrid (Plaza de Castilla) - Nuevo Algete,19,VALDEAMOR-PZA.POETAS
+191,Madrid (Plaza de Castilla) - Buitrago,1,INTERCAMBIADOR DE PLAZA CASTILLA
+191,Madrid (Plaza de Castilla) - Buitrago,2,Pº CASTELLANA-HOSPITAL LA PAZ
+191,Madrid (Plaza de Castilla) - Buitrago,3,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+191,Madrid (Plaza de Castilla) - Buitrago,4,PºEUROPA-AV.JUNCAL
+191,Madrid (Plaza de Castilla) - Buitrago,5,PºEUROPA-MARÍA SANTOS COLMENAR
+191,Madrid (Plaza de Castilla) - Buitrago,6,PºEUROPA-AV.MONTES DE OCA
+191,Madrid (Plaza de Castilla) - Buitrago,7,PºEUROPA-GTA.ANTONIO GAUDÍ
+191,Madrid (Plaza de Castilla) - Buitrago,8,PºEUROPA-HOSPITAL INFANTA SOFÍA
+191,Madrid (Plaza de Castilla) - Buitrago,9,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+191,Madrid (Plaza de Castilla) - Buitrago,10,CTRA.A1-URB.FUENTE EL FRESNO
+191,Madrid (Plaza de Castilla) - Buitrago,11,CTRA.A1-CIRCUITO DEL JARAMA
+191,Madrid (Plaza de Castilla) - Buitrago,12,CTRA.A1-URB.CIUDALCAMPO
+191,Madrid (Plaza de Castilla) - Buitrago,13,CTRA.A1-URB.VALDELAGUA
+191,Madrid (Plaza de Castilla) - Buitrago,14,CTRA.A1-LA LOBERA
+191,Madrid (Plaza de Castilla) - Buitrago,15,CTRA.A1-POL.IND.SUR SAN AGUSTÍN
+191,Madrid (Plaza de Castilla) - Buitrago,16,CTRA.A1-SALGUERILLA
+191,Madrid (Plaza de Castilla) - Buitrago,17,AV.MADRID-RESIDENCIAL GUADALIX
+191,Madrid (Plaza de Castilla) - Buitrago,18,AV.MADRID-PARQUE PRÍNCIPE FELIPE
+191,Madrid (Plaza de Castilla) - Buitrago,19,AV.MADRID-AV.ALCALDE LORENZO GINÉS
+191,Madrid (Plaza de Castilla) - Buitrago,20,AV.MADRID-POL.IND.NORTE SAN AGUSTÍN
+191,Madrid (Plaza de Castilla) - Buitrago,21,CTRA.A1-CºVIEJO DE FRANCIA
+191,Madrid (Plaza de Castilla) - Buitrago,22,PZA.MAYOR-AYUNTAMIENTO
+191,Madrid (Plaza de Castilla) - Buitrago,23,AV.ESPAÑA-ALMIRANTE MARTEL
+191,Madrid (Plaza de Castilla) - Buitrago,24,CTRA.A1-CRUCE EL VELLÓN
+191,Madrid (Plaza de Castilla) - Buitrago,25,VENTURADA-CTRA.IRÚN
+191,Madrid (Plaza de Castilla) - Buitrago,26,VENTURADA-URB.TOLLE LEGE
+191,Madrid (Plaza de Castilla) - Buitrago,27,CABANILLAS DE LA SIERRA-LOS BARRANCOS
+191,Madrid (Plaza de Castilla) - Buitrago,28,CABANILLAS DE LA SIERRA-REAL
+191,Madrid (Plaza de Castilla) - Buitrago,29,CABANILLAS DE LA S.-CTRA.ANTIGUA N1
+191,Madrid (Plaza de Castilla) - Buitrago,30,AV.LA CABRERA-CTRA.VALDEMANCO
+191,Madrid (Plaza de Castilla) - Buitrago,31,AV.LA CABRERA-LUIS FDEZ.UROSA
+191,Madrid (Plaza de Castilla) - Buitrago,32,AV.LA CABRERA-PICO DE LA MIEL
+191,Madrid (Plaza de Castilla) - Buitrago,33,AV.LA CABRERA-RESIDENCIA
+191,Madrid (Plaza de Castilla) - Buitrago,34,CTRA.TORRELAGUNA-GUARDIA CIVIL
+191,Madrid (Plaza de Castilla) - Buitrago,35,AV.MADRID-AYUNTAMIENTO
+191,Madrid (Plaza de Castilla) - Buitrago,36,AV.MADRID-URB.LOS TERREROS
+191,Madrid (Plaza de Castilla) - Buitrago,37,PRADOS QUEMADOS-CTRA.ESTACIÓN
+191,Madrid (Plaza de Castilla) - Buitrago,38,AV.MADRID-CTRA.MANJIRÓN
+191,Madrid (Plaza de Castilla) - Buitrago,39,AV.MADRID-CENTRO DE ESTUDIOS
+191,Madrid (Plaza de Castilla) - Buitrago,40,AV.MADRID-REAL
+191A,Buitrago - Braojos,1,AV.MADRID-REAL
+191A,Buitrago - Braojos,2,CTRA.M634-URB.CHAPARRITAS
+191A,Buitrago - Braojos,3,VILLAVIEJA DEL LOZOYA-CTRA.SIERRA
+191A,Buitrago - Braojos,4,CTRA.M634-URB.CHAPARRITAS
+191A,Buitrago - Braojos,5,GASCONES-PZA.CONSTITUCIÓN
+191A,Buitrago - Braojos,6,LA SERNA DEL MONTE-PZA.IGLESIA
+191A,Buitrago - Braojos,7,BRAOJOS-CLLON.DE LOS PERROS
+191B,Buitrago - Somosierra,1,AV.MADRID-REAL
+191B,Buitrago - Somosierra,2,PIÑUÉCAR-PZA.MAYOR
+191B,Buitrago - Somosierra,3,MADARCOS-TRVA.SAN MATEO
+191B,Buitrago - Somosierra,4,HORCAJO DE LA SIERRA-CARRETAS
+191B,Buitrago - Somosierra,5,CTRA.M136-EL LOMO
+191B,Buitrago - Somosierra,6,AOSLOS-REAL
+191B,Buitrago - Somosierra,7,CTRA.M978-ROYUELO
+191B,Buitrago - Somosierra,8,LA ACEBEDA-PZA. PLAZUELA
+191B,Buitrago - Somosierra,9,CTRA.M978-ROYUELO
+191B,Buitrago - Somosierra,10,ROBREGORDO-BALAGARES
+191B,Buitrago - Somosierra,11,ROBREGORDO-ERAS
+191B,Buitrago - Somosierra,12,SOMOSIERRA-CTRA.IRÚN
+191C,Buitrago - Montejo de la Sierra,1,AV.MADRID-REAL
+191C,Buitrago - Montejo de la Sierra,2,GANDULLAS-PZA.SIERRA
+191C,Buitrago - Montejo de la Sierra,3,CTRA.M137-PRÁDENA DEL RINCÓN
+191C,Buitrago - Montejo de la Sierra,4,CTRA.M141-HORCAJUELO DE LA SIERRA
+191C,Buitrago - Montejo de la Sierra,5,MONTEJO DE LA SIERRA-COLEGIO
+191C,Buitrago - Montejo de la Sierra,6,MONTEJO DE LA SIERRA-PZA.FUENTE
+191D,Buitrago - Robledillo de la Jara,1,AV.MADRID-REAL
+191D,Buitrago - Robledillo de la Jara,2,AV.MADRID-CENTRO DE ESTUDIOS
+191D,Buitrago - Robledillo de la Jara,3,CTRA.MANJIRÓN-AV.MADRID
+191D,Buitrago - Robledillo de la Jara,4,MANJIRÓN-IGLESIA
+191D,Buitrago - Robledillo de la Jara,5,MANJIRÓN-CERRADILLA
+191D,Buitrago - Robledillo de la Jara,6,CTRA.M127-PAREDES DE BUITRAGO
+191D,Buitrago - Robledillo de la Jara,7,CTRA.M127-SERRADA DE LA FUENTE
+191D,Buitrago - Robledillo de la Jara,8,BERZOSA DE LOZOYA-PARQUE
+191D,Buitrago - Robledillo de la Jara,9,BERZOSA DE LOZOYA-REAL
+191D,Buitrago - Robledillo de la Jara,10,ROBLEDILLO DE LA JARA-ERAS
+191D,Buitrago - Robledillo de la Jara,11,ROBLEDILLO DE LA JARA-IGLESIA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,1,INTERCAMBIADOR DE PLAZA CASTILLA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,2,Pº CASTELLANA-HOSPITAL LA PAZ
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,3,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,4,PºEUROPA-AV.JUNCAL
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,5,PºEUROPA-MARÍA SANTOS COLMENAR
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,6,PºEUROPA-AV.MONTES DE OCA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,7,PºEUROPA-GTA.ANTONIO GAUDÍ
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,8,PºEUROPA-HOSPITAL INFANTA SOFÍA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,9,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,10,CTRA.A1-URB.FUENTE EL FRESNO
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,11,CTRA.A1-CIRCUITO DEL JARAMA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,12,CTRA.A1-URB.CIUDALCAMPO
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,13,CTRA.A1-URB.VALDELAGUA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,14,CTRA.A1-LA LOBERA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,15,CTRA.A1-POL.IND.SUR SAN AGUSTÍN
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,16,CTRA.A1-SALGUERILLA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,17,AV.MADRID-RESIDENCIAL GUADALIX
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,18,AV.MADRID-PARQUE PRÍNCIPE FELIPE
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,19,AV.MADRID-AV.ALCALDE LORENZO GINÉS
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,20,AV.MADRID-POL.IND.NORTE SAN AGUSTÍN
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,21,CTRA.A1-CºVIEJO DE FRANCIA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,22,PZA.MAYOR-AYUNTAMIENTO
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,23,AV.ESPAÑA-ALMIRANTE MARTEL
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,24,ROSALEDA-NARDOS
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,25,ROSALEDA-URB.VISTASIERRA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,26,PºERMITA-ERAS DEL CABRERO
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,27,ERAS-AV.MADRID
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,28,SAN ROQUE-ESCUELA DE HOSTELERÍA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,29,CERRO DE SAN PEDRO-ESCUELA DE HOSTELERÍA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,30,ERAS-AV.MADRID
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,31,PºERMITA-PRADO CONCEJO
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,32,CTRA.A1-CRUCE EL VELLÓN
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,33,CTRA.M122-EL CAMPILLO
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,34,CTRA.M122-LOS MELONARES
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,35,CTRA.M122-HACILLA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,36,EL VELLÓN-PZA.IGLESIA
+193,Madrid (Plaza de Castilla) - Pedrezuela - El Vellón,37,EL VELLÓN-LA MINA
+193A,El Molar - Cotos de Monterrey - Venturada,1,FUENTE-ÁLAMO
+193A,El Molar - Cotos de Monterrey - Venturada,2,PZA.MAYOR-FUENTE
+193A,El Molar - Cotos de Monterrey - Venturada,3,AV.ESPAÑA-ALMIRANTE MARTEL
+193A,El Molar - Cotos de Monterrey - Venturada,4,CTRA.A1-CRUCE EL VELLÓN
+193A,El Molar - Cotos de Monterrey - Venturada,5,CTRA.A1-CRUCE COTOS DE MONTERREY
+193A,El Molar - Cotos de Monterrey - Venturada,6,AV.MONTERREY-PUERTO DE CANENCIA
+193A,El Molar - Cotos de Monterrey - Venturada,7,AV.MONTERREY-AV.GUADARRAMA
+193A,El Molar - Cotos de Monterrey - Venturada,8,AV.MONTERREY-PUERTO DE CANENCIA
+193A,El Molar - Cotos de Monterrey - Venturada,9,VENTURADA-CTRA.IRÚN
+194A,Buitrago - Lozoyuela - Rascafría,1,AV.MADRID-REAL
+194A,Buitrago - Lozoyuela - Rascafría,2,AV.MADRID-CENTRO DE ESTUDIOS
+194A,Buitrago - Lozoyuela - Rascafría,3,AV.MADRID-CTRA.MANJIRÓN
+194A,Buitrago - Lozoyuela - Rascafría,4,CTRA.TORRELAGUNA-GUARDIA CIVIL
+194A,Buitrago - Lozoyuela - Rascafría,5,AV.MADRID-AYUNTAMIENTO
+194A,Buitrago - Lozoyuela - Rascafría,6,AV.MADRID-URB.LOS TERREROS
+194A,Buitrago - Lozoyuela - Rascafría,7,PRADOS QUEMADOS-CTRA.ESTACIÓN
+194A,Buitrago - Lozoyuela - Rascafría,8,CTRA.M604-EL CUADRÓN
+194A,Buitrago - Lozoyuela - Rascafría,9,CTRA.M969-CRUCE GARGANTA
+194A,Buitrago - Lozoyuela - Rascafría,10,CTRA.M969-PRADOS REDONDOS
+194A,Buitrago - Lozoyuela - Rascafría,11,GARGANTA DE LOS MONTES-SAN ISIDRO
+194A,Buitrago - Lozoyuela - Rascafría,12,CTRA.M969-PRADOS REDONDOS
+194A,Buitrago - Lozoyuela - Rascafría,13,CTRA.M969-CRUCE GARGANTA
+194A,Buitrago - Lozoyuela - Rascafría,14,CTRA.M604-CRUCE CANENCIA
+194A,Buitrago - Lozoyuela - Rascafría,15,CTRA.M604-URB.EL TOMILLAR
+194A,Buitrago - Lozoyuela - Rascafría,16,CTRA.M604-CRUCE GARGANTILLA
+194A,Buitrago - Lozoyuela - Rascafría,17,CTRA.M604-LOZOYA
+194A,Buitrago - Lozoyuela - Rascafría,18,PINILLA DEL VALLE-COLEGIO
+194A,Buitrago - Lozoyuela - Rascafría,19,PINILLA DEL VALLE-AYUNTAMIENTO
+194A,Buitrago - Lozoyuela - Rascafría,20,PINILLA DEL VALLE-COLEGIO
+194A,Buitrago - Lozoyuela - Rascafría,21,ALAMEDA DEL VALLE-GRANDE
+194A,Buitrago - Lozoyuela - Rascafría,22,ALAMEDA DEL VALLE-AYUNTAMIENTO
+194A,Buitrago - Lozoyuela - Rascafría,23,ALAMEDA DEL VALLE-GRANDE
+194A,Buitrago - Lozoyuela - Rascafría,24,REAL-OTERUELO DEL VALLE
+194A,Buitrago - Lozoyuela - Rascafría,25,RASCAFRÍA-AV.VALLE
+194A,Buitrago - Lozoyuela - Rascafría,26,RASCAFRÍA-AV.PAULAR
+195,Madrid (Plaza de Castilla) - Braojos,1,INTERCAMBIADOR DE PLAZA CASTILLA
+195,Madrid (Plaza de Castilla) - Braojos,2,Pº CASTELLANA-HOSPITAL LA PAZ
+195,Madrid (Plaza de Castilla) - Braojos,3,AV.OLÍMPICA-PABELLÓN DEPORTIVO
+195,Madrid (Plaza de Castilla) - Braojos,4,PºEUROPA-AV.JUNCAL
+195,Madrid (Plaza de Castilla) - Braojos,5,PºEUROPA-MARÍA SANTOS COLMENAR
+195,Madrid (Plaza de Castilla) - Braojos,6,PºEUROPA-AV.MONTES DE OCA
+195,Madrid (Plaza de Castilla) - Braojos,7,PºEUROPA-GTA.ANTONIO GAUDÍ
+195,Madrid (Plaza de Castilla) - Braojos,8,PºEUROPA-HOSPITAL INFANTA SOFÍA
+195,Madrid (Plaza de Castilla) - Braojos,9,CTRA.ANTIGUA DE BURGOS-C.C.ALEGRA
+195,Madrid (Plaza de Castilla) - Braojos,10,CTRA.A1-URB.FUENTE EL FRESNO
+195,Madrid (Plaza de Castilla) - Braojos,11,CTRA.A1-CIRCUITO DEL JARAMA
+195,Madrid (Plaza de Castilla) - Braojos,12,CTRA.A1-URB.CIUDALCAMPO
+195,Madrid (Plaza de Castilla) - Braojos,13,CTRA.A1-URB.VALDELAGUA
+195,Madrid (Plaza de Castilla) - Braojos,14,CTRA.A1-LA LOBERA
+195,Madrid (Plaza de Castilla) - Braojos,15,CTRA.A1-POL.IND.SUR SAN AGUSTÍN
+195,Madrid (Plaza de Castilla) - Braojos,16,CTRA.A1-SALGUERILLA
+195,Madrid (Plaza de Castilla) - Braojos,17,AV.MADRID-RESIDENCIAL GUADALIX
+195,Madrid (Plaza de Castilla) - Braojos,18,AV.MADRID-PARQUE PRÍNCIPE FELIPE
+195,Madrid (Plaza de Castilla) - Braojos,19,AV.MADRID-AV.ALCALDE LORENZO GINÉS
+195,Madrid (Plaza de Castilla) - Braojos,20,AV.MADRID-POL.IND.NORTE SAN AGUSTÍN
+195,Madrid (Plaza de Castilla) - Braojos,21,CTRA.A1-CºVIEJO DE FRANCIA
+195,Madrid (Plaza de Castilla) - Braojos,22,PZA.MAYOR-AYUNTAMIENTO
+195,Madrid (Plaza de Castilla) - Braojos,23,AV.ESPAÑA-ALMIRANTE MARTEL
+195,Madrid (Plaza de Castilla) - Braojos,24,CTRA.A1-CRUCE EL VELLÓN
+195,Madrid (Plaza de Castilla) - Braojos,25,VENTURADA-CTRA.IRÚN
+195,Madrid (Plaza de Castilla) - Braojos,26,VENTURADA-URB.TOLLE LEGE
+195,Madrid (Plaza de Castilla) - Braojos,27,CABANILLAS DE LA SIERRA-LOS BARRANCOS
+195,Madrid (Plaza de Castilla) - Braojos,28,CABANILLAS DE LA SIERRA-REAL
+195,Madrid (Plaza de Castilla) - Braojos,29,CABANILLAS DE LA S.-CTRA.ANTIGUA N1
+195,Madrid (Plaza de Castilla) - Braojos,30,AV.LA CABRERA-CTRA.VALDEMANCO
+195,Madrid (Plaza de Castilla) - Braojos,31,AV.LA CABRERA-LUIS FDEZ.UROSA
+195,Madrid (Plaza de Castilla) - Braojos,32,AV.LA CABRERA-PICO DE LA MIEL
+195,Madrid (Plaza de Castilla) - Braojos,33,AV.LA CABRERA-RESIDENCIA
+195,Madrid (Plaza de Castilla) - Braojos,34,CTRA.TORRELAGUNA-GUARDIA CIVIL
+195,Madrid (Plaza de Castilla) - Braojos,35,AV.MADRID-AYUNTAMIENTO
+195,Madrid (Plaza de Castilla) - Braojos,36,AV.MADRID-URB.LOS TERREROS
+195,Madrid (Plaza de Castilla) - Braojos,37,PRADOS QUEMADOS-CTRA.ESTACIÓN
+195,Madrid (Plaza de Castilla) - Braojos,38,CTRA.M604-EL CUADRÓN
+195,Madrid (Plaza de Castilla) - Braojos,39,CTRA.M604-CRUCE GARGANTA
+195,Madrid (Plaza de Castilla) - Braojos,40,CTRA.M629-CRUCE CANENCIA
+195,Madrid (Plaza de Castilla) - Braojos,41,CANENCIA-PZA.CONSTITUCIÓN
+195,Madrid (Plaza de Castilla) - Braojos,42,CTRA.M629-CRUCE CANENCIA
+195,Madrid (Plaza de Castilla) - Braojos,43,CTRA.M604-URB.EL TOMILLAR
+195,Madrid (Plaza de Castilla) - Braojos,44,CTRA.M634-CRUCE GARGANTILLA
+195,Madrid (Plaza de Castilla) - Braojos,45,CTRA.M634-URB.LA DEHESA
+195,Madrid (Plaza de Castilla) - Braojos,46,GARGANTILLA DEL LOZOYA-PZA.CARLOS RUIZ
+195,Madrid (Plaza de Castilla) - Braojos,47,CTRA.M634-PINILLA DE BUITRAGO
+195,Madrid (Plaza de Castilla) - Braojos,48,SAN MAMÉS-CTRA.NAVARREDONDA
+195,Madrid (Plaza de Castilla) - Braojos,49,NAVARREDONDA-PZA.CONSTITUCIÓN
+195,Madrid (Plaza de Castilla) - Braojos,50,SAN MAMÉS-PZA.CONSTITUCIÓN
+195,Madrid (Plaza de Castilla) - Braojos,51,VILLAVIEJA DEL LOZOYA-CTRA.SIERRA
+195,Madrid (Plaza de Castilla) - Braojos,52,CTRA.M634-URB.CHAPARRITAS
+195,Madrid (Plaza de Castilla) - Braojos,53,GASCONES-PZA.CONSTITUCIÓN
+195,Madrid (Plaza de Castilla) - Braojos,54,LA SERNA DEL MONTE-PZA.IGLESIA
+195,Madrid (Plaza de Castilla) - Braojos,55,BRAOJOS-CLLON.DE LOS PERROS
