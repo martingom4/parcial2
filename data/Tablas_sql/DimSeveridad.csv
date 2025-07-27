@@ -2,10 +2,9 @@ severity_key,severity_code,description
 1,2.0,Ingreso inferior o igual a 24 horas
 2,14.0,Sin asistencia sanitaria
 3,7.0,Asistencia sanitaria sólo en el lugar del accidente
-4,,
-5,1.0,Atención en urgencias sin posterior ingreso
-6,3.0,Ingreso superior a 24 horas
-7,6.0,Asistencia sanitaria inmediata en centro de salud o mutua
-8,5.0,Asistencia sanitaria ambulatoria con posterioridad
-9,4.0,Fallecido 24 horas
-10,77.0,Se desconoce
+4,1.0,Atención en urgencias sin posterior ingreso
+5,3.0,Ingreso superior a 24 horas
+6,6.0,Asistencia sanitaria inmediata en centro de salud o mutua
+7,5.0,Asistencia sanitaria ambulatoria con posterioridad
+8,4.0,Fallecido 24 horas
+9,77.0,Se desconoce
