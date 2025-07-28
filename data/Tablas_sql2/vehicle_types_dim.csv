@@ -1,0 +1,33 @@
+vehicle_type_key,vehicle_type
+0,Motocicleta > 125cc
+1,Turismo
+2,Bicicleta
+3,Motocicleta hasta 125cc
+4,Camión rígido
+5,Maquinaria de obras
+6,Furgoneta
+7,VMU eléctrico
+8,Autobús
+9,Bicicleta EPAC (pedaleo asistido)
+10,Todo terreno
+11,Otros vehículos sin motor
+12,Autobús articulado
+13,Ciclomotor
+14,Sin especificar
+15,Otros vehículos con motor
+16,Vehículo articulado
+17,Autocaravana
+18,Tractocamión
+19,Ciclo
+20,Autobus EMT
+21,Semiremolque
+22,Moto de tres ruedas > 125cc
+23,Cuadriciclo ligero
+24,Cuadriciclo no ligero
+25,Moto de tres ruedas hasta 125cc
+26,Patinete no eléctrico
+27,Remolque
+28,Ambulancia SAMUR
+29,Ciclo de motor L1e-A
+30,Ciclomotor de dos ruedas L1e-B
+31,Ciclomotor de tres ruedas
